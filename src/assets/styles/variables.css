@@ -1,0 +1,43 @@
+:root {
+  /* Colores principales */
+  --primary-color: #1a1a2e;
+  --primary-light: #16213e;
+  --secondary-color: #e94560;
+  --accent-color: #42b883;
+  --accent-hover: #369870;
+
+  /* Fondos */
+  --bg-primary: #0f0f1a;
+  --bg-secondary: #1a1a2e;
+  --bg-card: #16213e;
+  --bg-hover: #1f2a4a;
+
+  /* Textos */
+  --text-primary: #ffffff;
+  --text-secondary: #a0a0b8;
+  --text-muted: #6b6b8a;
+
+  /* Estados */
+  --success: #42b883;
+  --warning: #f39c12;
+  --danger: #e94560;
+  --info: #3498db;
+
+  /* Bordes */
+  --border-color: rgba(255,255,255,0.1);
+  --border-radius: 12px;
+  --border-radius-sm: 8px;
+
+  /* Sombras */
+  --shadow-sm: 0 2px 8px rgba(0,0,0,0.2);
+  --shadow-md: 0 4px 20px rgba(0,0,0,0.3);
+  --shadow-lg: 0 8px 40px rgba(0,0,0,0.4);
+
+  /* Transiciones */
+  --transition-fast: 0.15s ease;
+  --transition-normal: 0.3s ease;
+
+  /* Layout */
+  --sidebar-width: 260px;
+  --navbar-height: 64px;
+}
